@@ -1,0 +1,26 @@
+.button {
+	text-align: center;
+}
+
+.container {
+	text-align:center;
+}
+
+#grid {
+	height: 505px;
+	width: 505px;
+	overflow: auto;
+	margin: auto;
+}
+
+.square {
+	border: solid white 0.5px;
+	float: left;
+	background-color: black;
+}
+
+
+.darken {
+	background-color: blue;
+}
+
